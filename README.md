@@ -5,6 +5,7 @@
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes:ela/dela.
+- ✨ Inspirado no perfil da rafaballerini
 
  <div>
   <a href="https://github.com/mylena-angelica">
