@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Mylena Angélica 👋
 
 - 🔭 Estudante de Engenharia-FGA.
-- 🌼 Programo em Python.
+- 🌼 Programando em Python.
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes:ela/dela.
@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/mylena-ang%C3%A9lica-b99059213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/mylenaangelica" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"
-  ![Snake animation](https://github.com/Mylena-angelica)
+  ![Snake animation](https://github.com/Mylena-angelica/Mylena-angelica/blob/main/.github/workflows/cobrinha.ym)
  
 </div>
