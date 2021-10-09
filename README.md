@@ -2,6 +2,7 @@
 
 - 🔭 Estudante de Engenharia-FGA.
 - 🌼 Programando em Python.
+- 💡 Descobrindo HTML, React, Flutter, CSS, Dart.
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes:ela/dela.
@@ -17,6 +18,10 @@
   <img align="center" alt="My-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="My-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="My-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="My-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
+  <img align="center" alt="My-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="right" alt="my-cute" src="https://i.picasion.com/pic91/7822c1d3ce6bb4d78795c771a64459ee.gif">
 </div>
   
@@ -26,7 +31,7 @@
   <a href="https://t.me/Mycoalhada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mylenangelica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mylena-ang%C3%A9lica-b99059213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/mylenaangelica" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
+  <a href="https://www.behance.net/mylenaangelica" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" target="_blank"></a>
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"
   ![Snake animation](https://github.com/Mylena-angelica/Mylena-angelica/blob/main/.github/workflows/cobrinha.ym)
  
