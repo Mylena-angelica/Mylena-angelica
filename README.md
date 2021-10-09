@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/mylena-ang%C3%A9lica-b99059213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"
-  ![Snake animation](https://github.com/Mylena-angelica/Mylena-angelica/blob/main/.github/workflows/cobrinha.ym)
+ 
  
 </div>
