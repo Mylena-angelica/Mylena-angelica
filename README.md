@@ -23,6 +23,7 @@
   <img align="center" alt="My-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
   <img align="center" alt="My-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="right" alt="my-cute" src="https://i.picasion.com/pic91/7822c1d3ce6bb4d78795c771a64459ee.gif">
+  <img align="center" alt="My-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
   
   ##
