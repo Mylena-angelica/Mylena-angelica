@@ -1,11 +1,11 @@
 ### Oie! Eu sou a Mylena Angélica 👋
 
 - 🔭 Estudante de Engenharia-FGA.
-- 🌼 Programando em Python.
-- 💡 Descobrindo HTML, React, Flutter, CSS, Dart.
+- 🌼 Programando em Python, HTML, CSS, JavaScript.
+- 💡 Descobrindo React, Flutter, Dart.
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
-- 😄 Pronomes:ela/dela.
+- 😄 Pronomes: ela/dela.
 - ✨ Inspirado no perfil da rafaballerini
 
  <div>
@@ -22,8 +22,9 @@
   <img align="center" alt="My-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="My-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
   <img align="center" alt="My-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="My-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="my-cute" src="https://i.picasion.com/pic91/7822c1d3ce6bb4d78795c771a64459ee.gif">
-  <img align="center" alt="My-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
 </div>
   
   ##
