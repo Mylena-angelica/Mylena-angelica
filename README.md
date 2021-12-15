@@ -1,8 +1,8 @@
 ### Oie! Eu sou a Mylena Angélica 👋
 
 - 🔭 Estudante de Engenharia-FGA.
-- 🌼 Programando em Python, HTML, CSS, JavaScript.
-- 💡 Descobrindo React, Flutter, Dart.
+- 🌼 Programando em Python, HTML, CSS, JavaScript, React.
+- 💡 Descobrindo Flutter, Dart.
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
