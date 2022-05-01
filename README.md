@@ -3,6 +3,7 @@
 - 🔭 Estudante de Engenharia de software-FGA.
 - 🌼 Programando em Python, HTML, CSS, JavaScript, React.
 - 💡 Descobrindo Flutter, Dart.
+- 🧠 Aventurando no mundo da Inteligência Artificial.
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
