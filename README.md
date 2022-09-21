@@ -1,6 +1,7 @@
 ### Oie! Eu sou a Mylena Angélica 👋
 
-- 🔭 Estudante de Engenharia de software-FGA.
+- ![image](https://user-images.githubusercontent.com/86479209/191507223-515b50a3-00da-492b-aeba-8bbaae508007.png)
+Estudante de Engenharia de software-FGA.
 - 🌼 Programando em Python, HTML, CSS, JavaScript, React, Java.
 - 💡 Descobrindo Flutter, Dart.
 - 🧠 Aventurando no mundo da Inteligência Artificial.
