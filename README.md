@@ -6,6 +6,8 @@
 - 😄 Pronomes: ela/dela.
 - 🍑 Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
 
+<img align="right" alt="my-cute" height="200" width="150" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
+
  <div>
   <a href="https://github.com/mylena-angelica">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -28,7 +30,7 @@
   <img align="center" alt="latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="wordprees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
-  <img align="right" alt="my-cute" height="200" width="150" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
+  
  
   
 </div>
@@ -39,12 +41,12 @@
   <a img align="center" href="https://t.me/Mycoalhada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href = "mailto:mylena.asfa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mylena-ang%C3%A9lica-b99059213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <a href = "https://www.behance.net/mylenaangelica"><img src="	https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+ <a href = "https://www.behance.net/mylenaangelica" target="_blank"><img src="	https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
   
  
 </div>
 <div>
-<img align="left" height="180" width="100"img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=truee&border_radius=10"/>
+<img align="left" height="180" width="400"img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=truee&border_radius=10"/>
 
 </div>
