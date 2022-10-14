@@ -1,4 +1,4 @@
-### Oie! Eu sou a Mylena Angélica 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=27&pause=1000&color=47DFF7&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Mylena+Ang%C3%A9lica" alt="Typing SVG" /></a>### Oie! Eu sou a Mylena Angélica 👋
 
 
 - 🌼 Programando em Python, HTML, CSS, JavaScript, React, Java.
@@ -7,7 +7,7 @@
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
-- ✨ Inspirado no perfil da rafaballerini
+
 
  <div>
   <a href="https://github.com/mylena-angelica">
