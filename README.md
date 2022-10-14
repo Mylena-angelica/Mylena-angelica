@@ -47,6 +47,6 @@
  
 </div>
 <div>
-<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&dates=FFFF&stroke=32D1F&border_radius=10"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=FFFF&stroke=32D1F&border_radius=10"/>
 
 </div>
