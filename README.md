@@ -10,7 +10,7 @@
 
  <div>
   <a href="https://github.com/mylena-angelica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&bg_color=22272E&title_color=32D1F7&text_color=ADBAC7&icon_color=F7613E&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylena-angelica&layout=compact&langs_count=7&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
@@ -53,6 +53,6 @@
 </div>
  <br />
 <div>
-<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=FFFF&stroke=32D1F&border_radius=10"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=ADBAC7&stroke=32D1F&border_radius=10"/>
 
 </div>
