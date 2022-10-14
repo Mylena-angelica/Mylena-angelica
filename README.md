@@ -4,7 +4,7 @@
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
-- 🍑 Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
+- <img align="left" height="20" width="40" src="https://cdn-icons-png.flaticon.com/128/4057/4057005.png"> Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
 
  <div>
   <a href="https://github.com/mylena-angelica">
