@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=27&pause=1000&color=47DFF7&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Mylena+Ang%C3%A9lica" alt="Typing SVG" /></a>### Oie! Eu sou a Mylena Angélica 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=27&pause=1000&color=47DFF7&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Mylena+Ang%C3%A9lica" alt="Typing SVG" /></a>
 
 - 🌼 Programando em Python, HTML, CSS, JavaScript, React, Java.
 - 💡 Descobrindo Flutter, Dart.
@@ -7,6 +6,7 @@
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
+![image](https://user-images.githubusercontent.com/86479209/195911665-abcdd5d9-d4c0-4238-8350-3c37ee694801.png)
 
 
  <div>
