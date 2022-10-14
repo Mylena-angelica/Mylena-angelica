@@ -6,12 +6,11 @@
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
-![image](https://user-images.githubusercontent.com/86479209/195911665-abcdd5d9-d4c0-4238-8350-3c37ee694801.png)
-
+- 🍑 Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
 
  <div>
   <a href="https://github.com/mylena-angelica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&theme=chartreuse-darkt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylena-angelica&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
