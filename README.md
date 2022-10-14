@@ -28,7 +28,7 @@
   <img align="center" alt="latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="wordprees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
-  <img align="right" alt="my-cute" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
+  <img align="right" alt="my-cute" height="100" width="50" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
  
   
 </div>
