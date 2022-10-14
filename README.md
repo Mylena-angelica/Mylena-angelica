@@ -37,7 +37,7 @@
 </div>
   
   ##
- <br>
+ <br />
  
 <div> 
   <a href="https://t.me/Mycoalhada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/mylena-ang%C3%A9lica-b99059213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href = "https://www.behance.net/mylenaangelica" target="_blank"><img src="	https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
   
- 
+ <br />
 </div>
 <div>
 <img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=FFFF&stroke=32D1F&border_radius=10"/>
