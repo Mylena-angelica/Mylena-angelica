@@ -4,7 +4,7 @@
 - 🌱 Sempre aprendendo novas linguagens de programação.
 - 📚 Fluente em português e inglês.
 - 😄 Pronomes: ela/dela.
-- <img align="left" height="20" width="40" src="https://cdn-icons-png.flaticon.com/128/4057/4057005.png"> Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
+<img align="left" height="20" width="20" src="https://cdn-icons-png.flaticon.com/128/4057/4057005.png"> Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
 
  <div>
   <a href="https://github.com/mylena-angelica">
@@ -28,7 +28,7 @@
   <img align="center" alt="latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="wordprees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
-  <img align="right" alt="my-cute" src="https://i.picasion.com/pic91/7822c1d3ce6bb4d78795c771a64459ee.gif">
+  <img align="right" alt="my-cute" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
  
   
 </div>
