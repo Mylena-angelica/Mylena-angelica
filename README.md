@@ -44,7 +44,7 @@
  
 </div>
 <div>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&theme=neon_blurange&hide_border=true&border_radius=10"/>
+<img align="left" height="180" width="100"img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=truee&border_radius=10"/>
 
 </div>
