@@ -10,7 +10,7 @@
 
  <div>
   <a href="https://github.com/mylena-angelica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&bg_color=32D1F7&title_color=FFFF&text_color=FFFF&icon_color=FFFF&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylena-angelica&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
