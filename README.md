@@ -45,5 +45,6 @@
 </div>
 <div>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
- [![GitHub Streak](https://streak-stats.demolab.com?user=mylena-angelica&theme=neon_blurange&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&theme=neon_blurange&hide_border=true&border_radius=10"/>
+
 </div>
