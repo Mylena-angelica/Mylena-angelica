@@ -33,7 +33,7 @@
   <br />
  <br />
  <br />
-   <img align="right" height="400" width="400"img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+   
   
  
   
@@ -53,6 +53,6 @@
 </div>
  <br />
 <div>
-<img height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=ADBAC7&stroke=32D1F&border_radius=10"/>
+<img  align="center" height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=ADBAC7&stroke=32D1F&border_radius=10"/>
 
 </div>
