@@ -2,9 +2,11 @@
 
 - 🧠 Aventurando no mundo da Inteligência Artificial.
 - 🌱 Sempre aprendendo novas linguagens de programação.
-- 📚 Fluente em português e inglês.
+- 🎮 Apaixonada por Gamificação.
+- 📚 Fluente em português e inglês. Aprendendo Espanhol e Mandarim.
 - 😄 Pronomes: ela/dela.
 - 🍑 Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
+- 🎟️ ICCSA 24 Best Paper Award
 
 <img align="right" alt="my-cute" height="200" width="150" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
 
