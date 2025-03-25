@@ -1,38 +1,57 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=27&pause=1000&color=47DFF7&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Mylena+Ang%C3%A9lica" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F709E2&center=true&multiline=true&repeat=false&width=850&height=80&lines=Welcome+to+my+Github!;I'm++Mylena+Ang%C3%A9lica%2C;Software+Engineering." alt="Typing SVG" /></a>
 
-- 🧠 Aventurando no mundo da Inteligência Artificial.
-- 🌱 Sempre aprendendo novas linguagens de programação.
-- 🎮 Apaixonada por Gamificação.
-- 📚 Fluente em português e inglês. Aprendendo Espanhol e Mandarim.
-- 😄 Pronomes: ela/dela.
-- 🍑 Membro da equipe campeã do Seeds for the future- TECH4GOOD 2022- Brasil e Portugal.
-- 🎟️ ICCSA 24 Best Paper Award
+![](https://komarev.com/ghpvc/?username=Mylena-angelica&color=ff69b4&abbreviated=true)
 
-<img align="right" alt="my-cute" height="200" width="150" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
 
+🧠 Venturing into the world of AI, ML, LLMs and DL.
+
+🪸 Passionate about technology's role in solving sustainability challenges.
+
+💡 Always looking for ways to innovate and push boundaries in tech.
+
+🪄 A strong advocate for the transformative power of Gamification
+
+🌎 Speaking Portuguese, English and Spanish. Learning Mandarin and Korean.
+
+😄 Pronouns: she/her.
+
+### 👩🏻‍💻 Languages and Tools <br />
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
-  <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="wordprees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
+  <img align="center" alt="python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FF69B4">
+  <img align="center" alt="react" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original.svg?color=%23FF69B4">
+  <img align="center" alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain.svg?color=%23FF69B4">
+  <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain.svg?color=%23FF69B4">
+  <img align="center" alt="debian" height="30" width="40" src="https://devicon-website.vercel.app/api/debian/plain.svg?color=%23FF69B4">
+  <img align="center" alt="django" height="30" width="40" src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23FF69B4">
+  <img align="center" alt="r" height="30" width="40" src="https://devicon-website.vercel.app/api/r/original.svg?color=%23FF69B4" >
+  <img align="center" alt="git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FF69B4">
+  <img align="center" alt="docker" height="30" width="40" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23FF69B4">
+  <img align="center" alt="java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FF69B4">
+  <img align="center" alt="c" height="30" width="40" src="https://devicon-website.vercel.app/api/c/plain.svg?color=%23FF69B4">
+  <img align="center" alt="latex" height="30" width="40" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FF69B4">
+  <img align="center" alt="node" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/plain.svg?color=%23FF69B4">
+  <img align="center" alt="wordprees" height="30" width="40" src="https://devicon-website.vercel.app/api/wordpress/plain.svg?color=%23FF69B4"> 
+  <img align="center" alt="figma" height="30" width="40"src="https://devicon-website.vercel.app/api/figma/plain.svg?color=%23FF69B4">
+  <img align="center" alt="js" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/plain.svg?color=%23FF69B4" >
+  <img align="center" alt="linux" height="30" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FF69B4" >
+  <img align="center" alt="md" height="30" width="40" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FF69B4" >
+  <img align="center" alt="mongodb" height="30" width="40" src="https://devicon-website.vercel.app/api/mongodb/plain.svg?color=%23FF69B4">
+  <img align="center" alt="moodle" height="30" width="40" src="https://devicon-website.vercel.app/api/moodle/plain.svg?color=%23FF69B4" >
+  <img align="center" alt="mysql" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23FF69B4" >
+  <img align="center" alt="numpy" height="30" width="40" src="https://devicon-website.vercel.app/api/numpy/original.svg?color=%23FF69B4" >
+  <img align="center" alt="pandas" height="30" width="40" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23FF69B4" >
+  <img align="center" alt="php" height="30" width="40" src="https://devicon-website.vercel.app/api/php/plain.svg?color=%23FF69B4" >
+  <img align="center" alt="postgresql" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23FF69B4" >
+  <img align="center" alt="pytorch" height="30" width="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg?color=%23FF69B4" >
+  <img align="center" alt="tensorflow" height="30" width="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg?color=%23FF69B4" >
+  <img align="center" alt="vscode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/plain.svg?color=%23FF69B4" >
+ 
   <br />
  <br />
  <br />
    
-  
+  ### 📫 How to reach me:
  
   
 </div>
@@ -50,7 +69,4 @@
 
 </div>
  <br />
-<div>
-<img  align="center" height="180em" src="https://streak-stats.demolab.com?user=mylena-angelica&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=ADBAC7&stroke=32D1F&border_radius=10"/>
 
-</div>
