@@ -10,11 +10,7 @@
 
 <img align="right" alt="my-cute" height="200" width="150" src="https://i.picasion.com/pic92/821a17ad46dd577c1e02eede45c5943b.gif">
 
- <div>
-  <a href="https://github.com/mylena-angelica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylena-angelica&show_icons=true&bg_color=22272E&title_color=32D1F7&text_color=ADBAC7&icon_color=F7613E&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylena-angelica&layout=compact&langs_count=7&bg_color=22272E&title_color=32D1F7&text_color=FFFF&icon_color=F7613E&hide_border=true"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
