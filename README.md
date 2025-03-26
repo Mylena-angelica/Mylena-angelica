@@ -15,6 +15,8 @@
 
 😄 Pronouns: she/her.
 
+ <br />
+
 ### 👩🏻‍💻 Languages and Tools <br />
 
 <div style="display: inline_block"><br>
@@ -49,24 +51,19 @@
  
   <br />
  <br />
- <br />
-   
-  ### 📫 How to reach me:
- 
-  
-</div>
-  
-  ## 
- 
+
+
+  ### 📫 How to reach me:<br />
 <div> 
- 
-  <a href="https://t.me/Mycoalhada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href = "mailto:mylena.asfa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mylena-ang%C3%A9lica-b99059213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.behance.net/mylenaangelica" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-
-  
-
+ <br />
+  <a href="https://t.me/@Mylena_Angelica" target="_blank"><img height="25" width="75" src="https://img.shields.io/badge/Telegram-ff69b4?style=flat&logo=telegram&logoColor=white"></a>
+  <a href ="mailto:mylena.asfa@gmail.com"><img height="25" width="65" src="https://img.shields.io/badge/Email-ff69b4?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mylena-angelica" target="_blank"><img height="25" width="65" src="https://img.shields.io/badge/Linkedin-ff69b4?style=flat&logoColor=white"></a> 
+  <a href="http://lattes.cnpq.br/5667918256720594" target="_blank"><img height="25" width="65" src="https://img.shields.io/badge/Lattes-ff69b4?style=flat&logoColor=white"></a>
+  <a href="https://gitlab.com/Mylena-angelica" target="_blank"><img height="25" width="65" src="https://img.shields.io/badge/Gitlab-ff69b4?style=flat&logo=gitlab&logoColor=white"></a>
 </div>
  <br />
+
+   ### ⚙️ GitHub Analytics:<br />
+![Mylena-Angelica's Stats](https://github-readme-stats.vercel.app/api?username=Mylena-angelica&show_icons=false&title_color=ff69b4&text_color=ff69b4&bg_color=212830&cache_seconds=2300&hide_border=true&layout=compact) ![Mylena-Angelica's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mylena-Angelica&title_color=ff69b4&text_color=ff69b4&bg_color=212830&cache_seconds=2300&hide_border=true&layout=compact) 
 
